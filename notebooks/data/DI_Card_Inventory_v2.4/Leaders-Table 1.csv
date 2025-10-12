@@ -1,0 +1,35 @@
+;;;;;;;;
+;Leader Name;House;Game;Leader Ability;Signet Ring;"Complexity
+Level";"Power
+Tier";
+;Baron Vladimir Harkonnen;Harkonnen;Base Game;"Masterstroke: Once per game:
+Gain +1 Influence to 2 Factions.";Scheme: Pay 1 Solari: Draw 1 Intrigue card.;Level 3;S;
+;Duke Leto Atreides;Atreides;Base Game;"Landsraad popularity: Sending an Agent to 
+a Green board space costs you 1 Solari less.";Prudent Diplomacy: Pay 1 Spice: Gain 1 Influence with a Faction where an opponent has more than you.;Level 2;S;
+;Helena  Richese;Richese;Base Game;"Eyes Everywhere: Enemy Agents don't block
+your Agents at Green or Blue board spaces.";"Manipulate: Remove a card in the Imperium Row.
+Acquire this  card for 1 Persuation less.";Level 2;S;
+;Glossu “The Beast” Rabban;Harkonnen;Base Game;Arrakis Fiefdom: At game start: +1 Spice and +1 Solari.;"Brutality: +1 Troop or +2 Troops
+if you have at least 1 Faction Alliance.";Level 1;A;
+;Count Ilban Richese;Richese;Base Game;"Ruthless Negotiator: When you pay Solari for the cost
+of a board Space: Draw 1 card.";Manufacturing: +1 Solari;Level 1;A;
+;Tessia Vernius;Vernius;Ix Expansion;"Careful Observation: Use Snooper tokens on the
+Influence track to gain rewards.";Duplicity: Lose 1 Influence: Gain 1 Influence with a Faction where you have a Snooper token.;Level 3;A;
+;Archduke Armand Ecaz;Ecaz;Ix Expansion;"Coördination: At reveal turn:
+You may trash one of your cards In Play.";"Conscript: You may acquire a card
+that costs 3 Persuation or les.";Level 2;A;
+;Paul Atreides ;Atreides;Base Game;"Prescience: You may look at the top card
+of your deck at any time.";Discipline: Draw 1 card.;Level 1;B;
+;Earl Memnon Thorvald;Thorvald;Base Game;"Connections: When you take a High Counsil seat:
+Gain +1 Influence.";Spice Hoard: +1 Spice.;Level 1;B;
+;Princess Yuna Moritani;Moritani;Ix Expansion;"Smuggling Operation: At game start: no Water.
+When you gain Solari on your turn, gain +1 Solari.";"Final Delivery: Pay 7 Solari:
+Gain +1 Influence, +1 Troop, +1 Spice";Level 2;B;
+;Viscount Hundro Moritani;Moritani;Ix Expansion;"Intelligence: At game start: Look at the top 2 cards of
+the Intrigue deck. Keep 1, put the other back on top.";Couriers: Pay 1 Spice: +1 Dreadnought;Level 1;B;
+;Countess Ariana Thorvald ;Thorvald;Base Game;"Spice Addict: When you harvest spice:
+gain 1 less spice and draw 1 card.";Hidden Reservoir: +1 Water;Level 3;C;
+;Ilesa Ecaz;Ecaz;Ix Expansion;"One step ahead: Round start: Set aside a card.
+If you use it to send an Agent: Gain Spice or Solari.";Guild contacts: Pay 1 Solari: Gain 1 Foldspace card.;Level 3;C;
+;Prince Rhombur Vernius;Vernius;Ix Expansion;"Heavy Lasgun Cannons: Your dreadnoughts have
+4 strength (instead of 3).";Ixian Technology: Acquire Tech or Tech Negotiation.;Level 1;C;

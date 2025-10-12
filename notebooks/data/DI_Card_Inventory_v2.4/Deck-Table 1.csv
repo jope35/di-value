@@ -1,0 +1,174 @@
+;Card Name;Count;Type;Cost;Various;Agent Ability;"Reveal
+persuasion";"Reveal
+Swords";Reveal Ability;"Green
+Space";"Blue
+Space";"Yellow
+Space";"Emperor
+Space";"Guild
+Space";"Bene
+Space";"Fremen
+Space";Faction;
+;"Arrakis Recruiter
+";2;"Base Game
+Imperium Row";2;-;+1 Troop;1;1;-;-;X;-;-;-;-;-;-;
+;"Assassination Mission
+";2;"Base Game
+Imperium Row";1;-;"When trashed by another card or effect:
++4 Solari";-;1;+1 Solari;-;-;-;-;-;-;-;-;
+;"Bene Gesserit Initiate
+";2;"Base Game
+Imperium Row";3;-;Draw 1 card;1;-;-;X;X;X;-;-;-;-;Bene Gesserit;
+;"Bene Gesserit Sister
+";3;"Base Game
+Imperium Row";3;-;-;-;-;"+2 persuasion Or
++2 Swords";X;-;-;-;-;X;-;Bene Gesserit;
+;Carryall;1;"Base Game
+Imperium Row";5;-;Double base spice harvest (not bonus);1;-;+1 Spice;-;-;X;-;-;-;-;-;
+;Chani;1;"Base Game
+Imperium Row";5;"With Buy:
++1 Water";-;2;-;Retreat any number of Troops;-;X;X;-;-;-;X;Fremen;
+;Choam Directorship;1;"Base Game
+Imperium Row";8;"With Buy: +1 Influence
+to all 4 Factions";-;-;-;+3 Solari;-;-;-;-;-;-;-;-;
+;"Crysknife
+";1;"Base Game
+Imperium Row";3;-;+1 Solari;-;1;Fremen Bond: +1 Influence with Fremen;-;-;x;-;-;-;X;Fremen;
+;"Dr. Yueh
+";1;"Base Game
+Imperium Row";1;-;Draw 1 card;1;-;;-;X;-;-;-;-;-;-;
+;"Duncan Idaho
+";1;"Base Game
+Imperium Row";4;-;Pay 1 water: +1 Troop and Draw 1 card;-;2;+1 Water;-;X;-;-;-;-;-;-;
+;"Fedaykin Death Commando
+";2;"Base Game
+Imperium Row";3;-;Trash a card;1;-;Fremen bond: +3 Swords;-;X;X;-;-;-;-;Fremen;
+;"Firm Grip
+";1;"Base Game
+Imperium Row";4;-;"Pay 2 Solari: +1 Influence with:
+Spacing Guild OR Bene Gesserit OR Fremen";-;-;Having Emperor Alliance: +4 persuasion;X;-;-;X;-;-;-;Emperor;
+;"Fremen Camp
+";2;"Base Game
+Imperium Row";4;-;Pay 2 Spice: +3 Troops;2;1;-;-;-;X;-;-;-;-;Fremen;
+;"Gene Manipulation
+";2;"Base Game
+Imperium Row";3;-;"Trash a card and with another
+Bene Gesserit card in play: +2 Spice";2;-;-;X;X;-;-;-;-;-;Bene Gesserit;
+;"Guild Administrator
+";2;"Base Game
+Imperium Row";2;-;Trash 1 card;1;-;-;-;-;x;-;x;-;-;Spacing Guild;
+;"Guild Ambassador
+";1;"Base Game
+Imperium Row";4;-;+1 Spacing Guild Influence or +2 Spice;-;-;"Having Spacing Guild Alliance:
+Pay 3 Spice for +1 VP";X;-;-;-;-;-;-;Spacing Guild;
+;"Guild Bankers
+";1;"Base Game
+Imperium Row";3;-;-;-;-;" The Spice Must Flow costs
+3 less this turn";X;-;-;X;X;-;-;Spacing Guild;
+;"Gun Thopter
+";2;"Base Game
+Imperium Row";4;-;Each opponent loses 1 Garrisoned Troop;-;3;"You may deploy a troop from
+your Garrison to the Conflict";-;X;X;-;-;-;-;-;
+;"Gurney Halleck
+";1;"Base Game
+Imperium Row";6;-;+2 Troops and Draw 1 card;2;-;"Pay 3 solari:
++2 Troops to Garrison or Conflict";-;X;-;-;-;-;-;-;
+;"Imperial Spy
+";2;"Base Game
+Imperium Row";2;-;"Trash this card: 
+Draw 1 Intrigue card";1;1;-;-;-;-;X;-;-;-;Emperor;
+;"Kwisatz Haderach
+";1;"Base Game
+Imperium Row";8;-;"Send one of your agents from anywhere
+to any board space and Draw 1 card";-;-;-;X;X;X;X;X;X;X;Bene Gesserit;
+;"Lady Jessica
+";1;"Base Game
+Imperium Row";7;"With Buy:
++1 Influence";Draw 2 cards;3;1;-;X;X;X;-;-;X;-;Bene Gesserit;
+;"Liet Kynes
+";1;"Base Game
+Imperium Row";5;"With Buy: +1
+Emperor Influence";-;-;-;"+2 persuasion for each Fremen card
+in play, including this one";-;X;-;-;-;-;X;"Emperor
+Fremen";
+;"Missionaria Protectiva
+";2;"Base Game
+Imperium Row";1;-;"With another Bene Gesserit card in play:
++1 Influence";1;-;-;-;X;-;-;-;-;-;Bene Gesserit;
+;"Opulence
+";1;"Base Game
+Imperium Row";6;-;+3 Solari;1;-;Pay 6 Solari for +1 VP;-;-;-;X;-;-;-;Emperor;
+;"Other Memory
+";1;"Base Game
+Imperium Row";4;-;"Draw 1 card or Draw 1 Bene Gesserit card
+from your discard pile";2;-;-;-;X;X;-;-;-;-;Bene Gesserit;
+;"Piter De Vries
+";1;"Base Game
+Imperium Row";5;-;Draw 1 Intrigue card;3;1;-;X;X;-;-;-;-;-;-;
+;"Power Play
+";3;"Base Game
+Imperium Row";5;-;"+2 Influence instead of +1 Influence
+and Trash this card";-;-;-;-;-;-;X;X;X;X;-;
+;"Reverend Mother Mohaim
+";1;"Base Game
+Imperium Row";6;-;"With another Bene Gesserit card in play
+each opponent discards 2 cards";2;-;+2 Spice;-;-;-;X;-;X;-;"Emperor
+Bene Gesserit";
+;"Sardaukar Infantry
+";2;"Base Game
+Imperium Row";1;-;-;1;2;-;-;-;-;-;-;-;-;Emperor;
+;"Sardaukar Legion
+";2;"Base Game
+Imperium Row";5;-;+2 Troops;1;-;"Deploy up to 3 troops from
+Garrison to Conflict";X;-;-;X;-;-;-;Emperor;
+;"Scout
+";2;"Base Game
+Imperium Row";1;-;-;1;1;Retreat up to 2 Troops from Conflict;-;X;X;-;-;-;-;-;
+;"Shifting Allegiances
+";2;"Base Game
+Imperium Row";3;-;"Pay 1 Influence and 2 Spice to gain
++2 other Influence";2;-;-;X;-;X;-;-;-;-;-;
+;"Sietch Reverend Mother
+";1;"Base Game
+Imperium Row";4;-;Trash a card;-;-;"Fremen Bond:
++3 persuasion and +1 Spice";-;-;-;-;-;X;X;"Bene Gesserit
+Fremen";
+;"Smuggler's Thopter
+";2;"Base Game
+Imperium Row";4;-;"With 2 Spacing Guild Influence:
+Draw 2 cards";1;-;+1 Spice;-;-;X;-;-;-;-;Spacing Guild;
+;"Space Travel
+";2;"Base Game
+Imperium Row";3;-;Draw 1 card;2;-;-;-;-;-;-;X;-;-;Spacing Guild;
+;"Spice Hunter
+";2;"Base Game
+Imperium Row";2;-;-;1;1;Fremen bond: +1 Spice;-;-;X;-;-;-;X;Fremen;
+;"Spice Smugglers
+";2;"Base Game
+Imperium Row";2;-;"Pay 2 spice:
++1 Spacing Guild Influence and +3 Solari";1;1;-;-;X;-;-;-;-;-;Spacing Guild;
+;"Stilgar
+";1;"Base Game
+Imperium Row";5;-;+1 Water;2;3;-;-;X;X;-;-;-;X;Fremen;
+;"Test of Humanity
+";1;"Base Game
+Imperium Row";3;-;"Opponents discard 1 card or
+lose 1 deployed Troop";2;-;-;X;x;-;-;-;X;-;Bene Gesserit;
+;"The Voice
+";2;"Base Game
+Imperium Row";2;-;"Block 1 board space for Opponents
+this round";2;-;-;-;X;X;-;-;-;-;Bene Gesserit;
+;"Thufir Hawat
+";1;"Base Game
+Imperium Row";5;-;Draw 1 card;1;-;Draw 1 Intrigue card;-;X;X;X;X;X;X;-;
+;"Worm Riders
+";2;"Base Game
+Imperium Row";6;-;+2 Spice;-;-;"Having 2 Fremen Influence: +4 Swords
+and Having Fremen Alliance: +2 swords";-;X;X;-;-;-;-;Fremen;
+;"Arrakis Liaison
+";8;"Base Game
+Reserve Cards";2;-;-;2;-;-;X;X;-;-;-;-;-;Fremen;
+;"Foldspace
+";6;"Base Game
+Reserve Cards";-;"Receive when on
+Spacing Guild";"Draw 1 card and
+Trash this card";-;-;-;X;X;X;X;X;X;X;-;

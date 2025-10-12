@@ -1,0 +1,72 @@
+;;;;;
+;"Intrigue Name
+";Count;Type;Ability;
+;Allied Armada;1;Combat;"If you have a Faction Alliance: Pay 2 Spice --> +7 Strength
+";
+;Ambush;2;Combat;"+4 Strength
+";
+;Bindu Suspension;1;Plot;"At the start of your turn: Draw a card, you may pass your turn
+instead of taking an Agent or Reveal turn.";
+;Bribery;1;Plot;"Pay 2 Solary --> +1 Influence
+";
+;Bypass Protocol;1;Plot;"Acquire a card that costs 3 Persuation or less. OR
+Pay 2 Spice --> Acquire a card that costs 5 Persuation to the top of your deck.";
+;Calculated Hire;1;Plot;"Pay 1 Spice --> Take the Mentat from its designated space in the Landsraad.
+";
+;Charisma;1;Plot;"Gain 2 Persuation during your Reveal turn this round.
+";
+;Choam Shares;1;Plot;"Pay 7 Solari --> +1 Victory point
+";
+;Corner The Market;1;Endgame;"If you have at least 2 ""The Spice Must Flow"": +1 Victory point.
+If you have more ""The Spice Must Flow"" than each opponent: +1 Victory point.";
+;Councilor's Dispensation;1;Plot;"If you have a seat on the High Council: +2 Spice
+";
+;Demand Respect;1;Combat;"When you win a Conflict: +1 Influence OR Pay 2 Spice --> +2 Influence
+(You may play this card after Resolving Combat.)";
+;Dispatch an Envoy;2;Plot;"The card you play this turn has the following icons:
+Emperor, Spacing Guild, Bene Gesserit and Fremen board spaces.";
+;Double Cross;1;Plot;"Pay 1 Solari --> An opponent of your choice loses one troop in the Conflict
+and you deploy one troop from your supply to the Conflict.";
+;Favored Subject;1;Plot;"+1 Emperor Influence
+";
+;Guild Authorization;1;Plot;"+1 Spacing Guild Influence
+";
+;Infiltrate;1;Plot;"Enemy Agents don't block your next Agent at board spaces this turn.
+";
+;Know their ways;1;Plot;"+1 Fremen Influence
+";
+;Master Tactician;3;Combat;"+3 Strength OR Retreat up to 3 of your troops.
+";
+;Plans Within Plans;1;Endgame;"Having 3  Influence (or more) on 3 Factions tracks: +1 Victory point OR
+Having 3 Influence (or more) on four Faction tracks: +2 Victory points.";
+;Poison Snooper;2;Plot;"Look at the top card of your deck, Draw or Trash it.
+";
+;Private Army;2;Combat;"Pay 2 Spice --> +5 Strength
+";
+;Rapid Mobilization;1;Plot;"Deploy any number of your garrisoned troops to the Conflict.
+";
+;Recruitment Mission;1;Plot;"Gain 1 Persuation during your Reveal turn this round.
+You may put cards you acquire on top of your deck.";
+;Refocus;1;Plot;"Shuffle your discard pile into your deck, then: Draw 1 card.
+";
+;Reinforcements;1;Plot;"Pay 3 Solari --> +3 Troops, if it's your Reveal turn,
+you may deploy any of these troops to the Conflict.";
+;Secret of the Sisterhood;1;Plot;"+1 Bene Gesserit Influence
+";
+;Staged Incident;1;Combat;"Lose 3 of your troops in the Conflict --> +1 Victory point.
+(If you remove 3 of your troops after playing this card, you gain 1 VP.)";
+;The Sleeper must Awaken;1;Plot;"Pay 4 Spice --> +1 Victory point
+";
+;Tiebreaker;1;"Combat
+Endgame";"+2 Strength in Combat OR
++10 Spice during Endgame";
+;To the Victor …;1;Combat;"When you win a Conflict: +3 Spice.
+(You may play this card after Resolving Combat.)";
+;Urgent Mission;1;Plot;"Recal one of your Agents.
+";
+;Water of Life;1;Plot;"Pay 1 Water and 1 Spice --> Draw 3 cards
+";
+;Water Peddlers Union;1;Plot;"+1 Water
+";
+;Windfall;1;Plot;"+2 Solari
+";
